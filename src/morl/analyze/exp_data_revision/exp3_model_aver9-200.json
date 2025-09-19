@@ -1,0 +1,1102 @@
+[
+    [
+        {
+            "Model ID": [
+                9,
+                0
+            ],
+            "Fun Content Average": 0.9438443530546279,
+            "Fun Behaviour Average": 0.908270238640794,
+            "Playability Average": 24.87
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                9,
+                1
+            ],
+            "Fun Content Average": 0.9448354247447058,
+            "Fun Behaviour Average": 0.9054381000794802,
+            "Playability Average": 24.92
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                9,
+                2
+            ],
+            "Fun Content Average": 0.9456130472801908,
+            "Fun Behaviour Average": 0.9108233465774457,
+            "Playability Average": 24.91
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                9,
+                3
+            ],
+            "Fun Content Average": 0.9462047486672526,
+            "Fun Behaviour Average": 0.9143487935660741,
+            "Playability Average": 24.91
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                9,
+                4
+            ],
+            "Fun Content Average": 0.9454850998723117,
+            "Fun Behaviour Average": 0.9109914085129028,
+            "Playability Average": 24.85
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                19,
+                0
+            ],
+            "Fun Content Average": 0.9408512392156525,
+            "Fun Behaviour Average": 0.9254411314890444,
+            "Playability Average": 24.92
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                19,
+                1
+            ],
+            "Fun Content Average": 0.9410759200473479,
+            "Fun Behaviour Average": 0.9231754315478641,
+            "Playability Average": 24.9
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                19,
+                2
+            ],
+            "Fun Content Average": 0.9417225629911492,
+            "Fun Behaviour Average": 0.9281170683545311,
+            "Playability Average": 24.94
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                19,
+                3
+            ],
+            "Fun Content Average": 0.94086293088131,
+            "Fun Behaviour Average": 0.9260097853348134,
+            "Playability Average": 24.92
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                19,
+                4
+            ],
+            "Fun Content Average": 0.9418639981105545,
+            "Fun Behaviour Average": 0.927070463619081,
+            "Playability Average": 24.96
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                29,
+                0
+            ],
+            "Fun Content Average": 0.9518598547052467,
+            "Fun Behaviour Average": 0.9306096789128369,
+            "Playability Average": 24.95
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                29,
+                1
+            ],
+            "Fun Content Average": 0.9520691267318955,
+            "Fun Behaviour Average": 0.9305438133697657,
+            "Playability Average": 24.96
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                29,
+                2
+            ],
+            "Fun Content Average": 0.9509356256019504,
+            "Fun Behaviour Average": 0.9274620950531003,
+            "Playability Average": 24.97
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                29,
+                3
+            ],
+            "Fun Content Average": 0.9507235280659286,
+            "Fun Behaviour Average": 0.9329156435812659,
+            "Playability Average": 24.96
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                29,
+                4
+            ],
+            "Fun Content Average": 0.9518018918718123,
+            "Fun Behaviour Average": 0.9302672837392493,
+            "Playability Average": 24.97
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                39,
+                0
+            ],
+            "Fun Content Average": 0.9544743459838111,
+            "Fun Behaviour Average": 0.9246178773041329,
+            "Playability Average": 24.97
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                39,
+                1
+            ],
+            "Fun Content Average": 0.9527378263750252,
+            "Fun Behaviour Average": 0.9255337148780926,
+            "Playability Average": 24.97
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                39,
+                2
+            ],
+            "Fun Content Average": 0.9535615371203344,
+            "Fun Behaviour Average": 0.9248257924173343,
+            "Playability Average": 24.95
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                39,
+                3
+            ],
+            "Fun Content Average": 0.9536674114304007,
+            "Fun Behaviour Average": 0.9267322518845758,
+            "Playability Average": 24.97
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                39,
+                4
+            ],
+            "Fun Content Average": 0.9539789721406277,
+            "Fun Behaviour Average": 0.9247560178360189,
+            "Playability Average": 24.95
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                49,
+                0
+            ],
+            "Fun Content Average": 0.9558262722530784,
+            "Fun Behaviour Average": 0.9280560973937549,
+            "Playability Average": 24.94
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                49,
+                1
+            ],
+            "Fun Content Average": 0.9552555053315889,
+            "Fun Behaviour Average": 0.9325271827086741,
+            "Playability Average": 24.97
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                49,
+                2
+            ],
+            "Fun Content Average": 0.9539311464982545,
+            "Fun Behaviour Average": 0.93298612595544,
+            "Playability Average": 24.95
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                49,
+                3
+            ],
+            "Fun Content Average": 0.954735899452404,
+            "Fun Behaviour Average": 0.935040699893597,
+            "Playability Average": 24.96
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                49,
+                4
+            ],
+            "Fun Content Average": 0.9548421007411175,
+            "Fun Behaviour Average": 0.929417681218363,
+            "Playability Average": 24.97
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                59,
+                0
+            ],
+            "Fun Content Average": 0.9606171293499923,
+            "Fun Behaviour Average": 0.9307036184953503,
+            "Playability Average": 24.94
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                59,
+                1
+            ],
+            "Fun Content Average": 0.9594806862653527,
+            "Fun Behaviour Average": 0.936558243886888,
+            "Playability Average": 24.94
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                59,
+                2
+            ],
+            "Fun Content Average": 0.9606392195535632,
+            "Fun Behaviour Average": 0.9348506167460598,
+            "Playability Average": 24.96
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                59,
+                3
+            ],
+            "Fun Content Average": 0.9587309324823976,
+            "Fun Behaviour Average": 0.9329073640826325,
+            "Playability Average": 24.92
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                59,
+                4
+            ],
+            "Fun Content Average": 0.9608536398645937,
+            "Fun Behaviour Average": 0.9332478611145837,
+            "Playability Average": 24.95
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                69,
+                0
+            ],
+            "Fun Content Average": 0.9621342563695646,
+            "Fun Behaviour Average": 0.933603718548381,
+            "Playability Average": 24.94
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                69,
+                1
+            ],
+            "Fun Content Average": 0.9581697715667684,
+            "Fun Behaviour Average": 0.9387218283755316,
+            "Playability Average": 24.97
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                69,
+                2
+            ],
+            "Fun Content Average": 0.9609602786638505,
+            "Fun Behaviour Average": 0.9345940269093481,
+            "Playability Average": 24.96
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                69,
+                3
+            ],
+            "Fun Content Average": 0.9605859369078474,
+            "Fun Behaviour Average": 0.9335931867410799,
+            "Playability Average": 24.95
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                69,
+                4
+            ],
+            "Fun Content Average": 0.9597719143555543,
+            "Fun Behaviour Average": 0.9352481126428417,
+            "Playability Average": 24.96
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                79,
+                0
+            ],
+            "Fun Content Average": 0.9584348153250256,
+            "Fun Behaviour Average": 0.9378137796701296,
+            "Playability Average": 24.95
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                79,
+                1
+            ],
+            "Fun Content Average": 0.9602399613937276,
+            "Fun Behaviour Average": 0.9399742792348833,
+            "Playability Average": 24.96
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                79,
+                2
+            ],
+            "Fun Content Average": 0.957721415399094,
+            "Fun Behaviour Average": 0.9391105926014681,
+            "Playability Average": 24.97
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                79,
+                3
+            ],
+            "Fun Content Average": 0.9597324256525642,
+            "Fun Behaviour Average": 0.9364527861734618,
+            "Playability Average": 24.94
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                79,
+                4
+            ],
+            "Fun Content Average": 0.9602231160025951,
+            "Fun Behaviour Average": 0.9392644725957747,
+            "Playability Average": 24.97
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                89,
+                0
+            ],
+            "Fun Content Average": 0.9646411726265027,
+            "Fun Behaviour Average": 0.9450924898378552,
+            "Playability Average": 24.98
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                89,
+                1
+            ],
+            "Fun Content Average": 0.9646133324157269,
+            "Fun Behaviour Average": 0.9316181838616138,
+            "Playability Average": 24.95
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                89,
+                2
+            ],
+            "Fun Content Average": 0.9638922017773188,
+            "Fun Behaviour Average": 0.9384706711100502,
+            "Playability Average": 24.95
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                89,
+                3
+            ],
+            "Fun Content Average": 0.9636584104514724,
+            "Fun Behaviour Average": 0.9408609266666565,
+            "Playability Average": 24.97
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                89,
+                4
+            ],
+            "Fun Content Average": 0.9637667122469655,
+            "Fun Behaviour Average": 0.9447296105488607,
+            "Playability Average": 24.98
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                99,
+                0
+            ],
+            "Fun Content Average": 0.9640734279564913,
+            "Fun Behaviour Average": 0.9429102206901463,
+            "Playability Average": 24.93
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                99,
+                1
+            ],
+            "Fun Content Average": 0.9639821327530051,
+            "Fun Behaviour Average": 0.9397185864257027,
+            "Playability Average": 24.95
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                99,
+                2
+            ],
+            "Fun Content Average": 0.9625557752364603,
+            "Fun Behaviour Average": 0.9418273147325423,
+            "Playability Average": 24.97
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                99,
+                3
+            ],
+            "Fun Content Average": 0.960976354830347,
+            "Fun Behaviour Average": 0.9417981983472338,
+            "Playability Average": 24.96
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                99,
+                4
+            ],
+            "Fun Content Average": 0.9640640561197535,
+            "Fun Behaviour Average": 0.9439117204023926,
+            "Playability Average": 24.98
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                109,
+                0
+            ],
+            "Fun Content Average": 0.9641620710771903,
+            "Fun Behaviour Average": 0.9459412961350101,
+            "Playability Average": 24.96
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                109,
+                1
+            ],
+            "Fun Content Average": 0.9646597109467436,
+            "Fun Behaviour Average": 0.9416493931604983,
+            "Playability Average": 24.96
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                109,
+                2
+            ],
+            "Fun Content Average": 0.9634887824429532,
+            "Fun Behaviour Average": 0.9430710728738341,
+            "Playability Average": 24.97
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                109,
+                3
+            ],
+            "Fun Content Average": 0.9658684441733447,
+            "Fun Behaviour Average": 0.9438235599169807,
+            "Playability Average": 24.97
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                109,
+                4
+            ],
+            "Fun Content Average": 0.9645457419016961,
+            "Fun Behaviour Average": 0.9398593127360982,
+            "Playability Average": 24.95
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                119,
+                0
+            ],
+            "Fun Content Average": 0.9659429306728972,
+            "Fun Behaviour Average": 0.9415333256460683,
+            "Playability Average": 24.97
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                119,
+                1
+            ],
+            "Fun Content Average": 0.9648852235499418,
+            "Fun Behaviour Average": 0.9470517597147411,
+            "Playability Average": 24.97
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                119,
+                2
+            ],
+            "Fun Content Average": 0.9657875098343627,
+            "Fun Behaviour Average": 0.9477599698019509,
+            "Playability Average": 24.96
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                119,
+                3
+            ],
+            "Fun Content Average": 0.966250498437248,
+            "Fun Behaviour Average": 0.9489961137924492,
+            "Playability Average": 24.98
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                119,
+                4
+            ],
+            "Fun Content Average": 0.9658846522130763,
+            "Fun Behaviour Average": 0.9456069210023951,
+            "Playability Average": 24.96
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                129,
+                0
+            ],
+            "Fun Content Average": 0.9680915659986301,
+            "Fun Behaviour Average": 0.9498498146202123,
+            "Playability Average": 24.96
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                129,
+                1
+            ],
+            "Fun Content Average": 0.9688133706381931,
+            "Fun Behaviour Average": 0.9453532919599258,
+            "Playability Average": 24.95
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                129,
+                2
+            ],
+            "Fun Content Average": 0.9675004057119658,
+            "Fun Behaviour Average": 0.949372435367913,
+            "Playability Average": 24.97
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                129,
+                3
+            ],
+            "Fun Content Average": 0.9681713670390615,
+            "Fun Behaviour Average": 0.9454484750461768,
+            "Playability Average": 24.95
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                129,
+                4
+            ],
+            "Fun Content Average": 0.9690978977074747,
+            "Fun Behaviour Average": 0.9464728993132888,
+            "Playability Average": 24.96
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                139,
+                0
+            ],
+            "Fun Content Average": 0.967815970420787,
+            "Fun Behaviour Average": 0.9344238224093115,
+            "Playability Average": 24.91
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                139,
+                1
+            ],
+            "Fun Content Average": 0.9693162089838253,
+            "Fun Behaviour Average": 0.9402560721666154,
+            "Playability Average": 24.93
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                139,
+                2
+            ],
+            "Fun Content Average": 0.9698222399345444,
+            "Fun Behaviour Average": 0.9406865306551287,
+            "Playability Average": 24.94
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                139,
+                3
+            ],
+            "Fun Content Average": 0.9680238450025429,
+            "Fun Behaviour Average": 0.9394866855261941,
+            "Playability Average": 24.93
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                139,
+                4
+            ],
+            "Fun Content Average": 0.9687163759441186,
+            "Fun Behaviour Average": 0.9409689489055082,
+            "Playability Average": 24.92
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                149,
+                0
+            ],
+            "Fun Content Average": 0.9679274869361371,
+            "Fun Behaviour Average": 0.9415004493976821,
+            "Playability Average": 24.95
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                149,
+                1
+            ],
+            "Fun Content Average": 0.9668857384097227,
+            "Fun Behaviour Average": 0.9378100400361685,
+            "Playability Average": 24.92
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                149,
+                2
+            ],
+            "Fun Content Average": 0.9682010807097434,
+            "Fun Behaviour Average": 0.9409330198212532,
+            "Playability Average": 24.94
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                149,
+                3
+            ],
+            "Fun Content Average": 0.9648267892387549,
+            "Fun Behaviour Average": 0.9338306233176492,
+            "Playability Average": 24.94
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                149,
+                4
+            ],
+            "Fun Content Average": 0.9656146745336882,
+            "Fun Behaviour Average": 0.9374604936170995,
+            "Playability Average": 24.95
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                159,
+                0
+            ],
+            "Fun Content Average": 0.9657712466221962,
+            "Fun Behaviour Average": 0.9443366379925279,
+            "Playability Average": 24.97
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                159,
+                1
+            ],
+            "Fun Content Average": 0.9666781628640383,
+            "Fun Behaviour Average": 0.9460828497999549,
+            "Playability Average": 24.97
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                159,
+                2
+            ],
+            "Fun Content Average": 0.9655011788342946,
+            "Fun Behaviour Average": 0.9456031825796084,
+            "Playability Average": 24.98
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                159,
+                3
+            ],
+            "Fun Content Average": 0.9678776839188643,
+            "Fun Behaviour Average": 0.9451783866038574,
+            "Playability Average": 24.98
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                159,
+                4
+            ],
+            "Fun Content Average": 0.9665484635156484,
+            "Fun Behaviour Average": 0.9428073828489333,
+            "Playability Average": 24.97
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                169,
+                0
+            ],
+            "Fun Content Average": 0.9702255998142543,
+            "Fun Behaviour Average": 0.9447976689784112,
+            "Playability Average": 24.97
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                169,
+                1
+            ],
+            "Fun Content Average": 0.968652573828924,
+            "Fun Behaviour Average": 0.9418707098335662,
+            "Playability Average": 24.96
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                169,
+                2
+            ],
+            "Fun Content Average": 0.9692041364411849,
+            "Fun Behaviour Average": 0.9441262999289122,
+            "Playability Average": 24.96
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                169,
+                3
+            ],
+            "Fun Content Average": 0.9700009376934353,
+            "Fun Behaviour Average": 0.9421793917192852,
+            "Playability Average": 24.96
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                169,
+                4
+            ],
+            "Fun Content Average": 0.968211738941904,
+            "Fun Behaviour Average": 0.9464611609193441,
+            "Playability Average": 24.96
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                179,
+                0
+            ],
+            "Fun Content Average": 0.9688114817440264,
+            "Fun Behaviour Average": 0.940711401850472,
+            "Playability Average": 24.93
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                179,
+                1
+            ],
+            "Fun Content Average": 0.9668792946919375,
+            "Fun Behaviour Average": 0.9488017067133276,
+            "Playability Average": 24.94
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                179,
+                2
+            ],
+            "Fun Content Average": 0.9670448595381308,
+            "Fun Behaviour Average": 0.9445567158670031,
+            "Playability Average": 24.92
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                179,
+                3
+            ],
+            "Fun Content Average": 0.96671069266574,
+            "Fun Behaviour Average": 0.9403796746309788,
+            "Playability Average": 24.93
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                179,
+                4
+            ],
+            "Fun Content Average": 0.9654034790632373,
+            "Fun Behaviour Average": 0.9419349257941295,
+            "Playability Average": 24.94
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                189,
+                0
+            ],
+            "Fun Content Average": 0.9661114481896379,
+            "Fun Behaviour Average": 0.939975883279834,
+            "Playability Average": 24.92
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                189,
+                1
+            ],
+            "Fun Content Average": 0.9653279900993605,
+            "Fun Behaviour Average": 0.9397821310776148,
+            "Playability Average": 24.96
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                189,
+                2
+            ],
+            "Fun Content Average": 0.9671859547661577,
+            "Fun Behaviour Average": 0.935240425609703,
+            "Playability Average": 24.92
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                189,
+                3
+            ],
+            "Fun Content Average": 0.9660686262183424,
+            "Fun Behaviour Average": 0.9420685675623558,
+            "Playability Average": 24.93
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                189,
+                4
+            ],
+            "Fun Content Average": 0.9667070581442596,
+            "Fun Behaviour Average": 0.9419539093064612,
+            "Playability Average": 24.96
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                199,
+                0
+            ],
+            "Fun Content Average": 0.9655436106801065,
+            "Fun Behaviour Average": 0.9405046996367717,
+            "Playability Average": 24.86
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                199,
+                1
+            ],
+            "Fun Content Average": 0.9669138123402354,
+            "Fun Behaviour Average": 0.9383774460198444,
+            "Playability Average": 24.86
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                199,
+                2
+            ],
+            "Fun Content Average": 0.9665825618228558,
+            "Fun Behaviour Average": 0.9379234318816592,
+            "Playability Average": 24.83
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                199,
+                3
+            ],
+            "Fun Content Average": 0.965772939026844,
+            "Fun Behaviour Average": 0.9448483104304336,
+            "Playability Average": 24.91
+        }
+    ],
+    [
+        {
+            "Model ID": [
+                199,
+                4
+            ],
+            "Fun Content Average": 0.966377323386265,
+            "Fun Behaviour Average": 0.9419523668472815,
+            "Playability Average": 24.85
+        }
+    ]
+]
