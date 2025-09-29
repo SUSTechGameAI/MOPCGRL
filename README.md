@@ -2,6 +2,19 @@
 
 This repository provides an implementation of an MORL framework for the paper **Multi-Objective Procedural Content Generation via Reinforcement Learning (PCGRL)**. It combines **Soft Actor-Critic (SAC)** with **Multi-Objective Evolutionary Algorithms (MOEAs)** to evolve game content generators under multiple objectives and constraints.
 
+Please consider citing this work if you use this repository:
+```
+@article{yuan2025multi-objective,
+  author={Yi Yuan, Qingquan Zhang, Bo Yuan, Matthew Barthet, Ahmed Khalifa, Georgios N. Yannakakis, Huanhuan Chen and Jialin Liu},
+  journal={Complex System Modeling and Simulation}, 
+  title={MOPCGRL: Multi-objective Procedural Content Generation via Reinforcement Learning}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-18},
+  doi={}}
+```
+
 ### Requirements
 
 The packages and their versions of this code are listed in the `requirements.txt`. The environment configuration is based on the settings of [MFEDRL](https://github.com/SUSTechGameAI/MFEDRL), and the pretrained EGSAC models used here are also from that repository.
